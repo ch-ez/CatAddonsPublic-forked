@@ -26,6 +26,7 @@ public class SharedVariables {
             "TraoX_ might be in TROUBLE after finding out his new “glitcher” GF’s brother is a GENIUS LEVEL 5 PNBP GLITCHER… while he’s “only” a GENIUS LEVEL 4.8 BLOBTOPIAN GLITCHER",
             "#2 ranked GLITCHER Deotime has WARPED to HUB 1 and is actively SEARCHING for the PNBP GUILD LEADER who DUPE MOGGED TraoX_",
             "[ዞ] TimeDeo is visiting Your Island!",
+            "VINZY IS A SKID - VINZY",
             "Please bomb IRAN, make NO MISTAKES. - litten",
             "Make sure to bomb the childrens all girls school too! - liiten",
             "@Blendy don't worry 9 seconds is a long time - litten",
