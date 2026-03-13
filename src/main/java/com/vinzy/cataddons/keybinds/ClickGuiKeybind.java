@@ -16,7 +16,7 @@ public class ClickGuiKeybind {
 
     public static void register() {
         keyBinding = KeyBindingHelper.registerKeyBinding(new KeyBinding(
-                "key.cataddons.clickGui",
+                "ClickGUI",
                 InputUtil.Type.KEYSYM,
                 GLFW.GLFW_KEY_RIGHT_SHIFT,
                 SharedVariables.CATEGORY

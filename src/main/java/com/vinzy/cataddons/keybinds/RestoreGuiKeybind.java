@@ -16,7 +16,7 @@ public class RestoreGuiKeybind {
 
     public static void register() {
         keyBinding = KeyBindingHelper.registerKeyBinding(new KeyBinding(
-                "key.cataddons.restoreGui",
+                "Restore GUI",
                 InputUtil.Type.KEYSYM,
                 GLFW.GLFW_KEY_V,
                 SharedVariables.CATEGORY

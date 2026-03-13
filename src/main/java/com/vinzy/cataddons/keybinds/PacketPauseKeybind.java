@@ -22,7 +22,7 @@ public final class PacketPauseKeybind {
 
     public static void register() {
         keyBinding = KeyBindingHelper.registerKeyBinding(new KeyBinding(
-                "key.cataddons.blink",
+                "Blink",
                 InputUtil.Type.KEYSYM,
                 GLFW.GLFW_KEY_F7,
                 SharedVariables.CATEGORY

@@ -16,7 +16,7 @@ public class GhostBlockKeybind {
 
     public static void register() {
         keyBinding = KeyBindingHelper.registerKeyBinding(new KeyBinding(
-                "key.cataddons.ghostBlock",
+                "Ghost Blocks",
                 InputUtil.Type.KEYSYM,
                 GLFW.GLFW_KEY_G,
                 SharedVariables.CATEGORY

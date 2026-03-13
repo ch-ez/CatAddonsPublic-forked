@@ -19,7 +19,7 @@ public class FreeLookKeybind {
 
     public static void register() {
         keyBinding = KeyBindingHelper.registerKeyBinding(new KeyBinding(
-                "key.cataddons.freeLook",
+                "Freelook",
                 InputUtil.Type.KEYSYM,
                 GLFW.GLFW_KEY_Z,
                 SharedVariables.CATEGORY

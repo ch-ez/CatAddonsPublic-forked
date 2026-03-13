@@ -16,7 +16,7 @@ public class SaveGuiKeybind {
 
     public static void register() {
         keyBinding = KeyBindingHelper.registerKeyBinding(new KeyBinding(
-                "key.cataddons.saveGui",
+                "Save GUI",
                 InputUtil.Type.KEYSYM,
                 GLFW.GLFW_KEY_F6,
                 SharedVariables.CATEGORY
