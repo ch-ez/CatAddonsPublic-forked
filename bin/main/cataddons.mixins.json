@@ -1,0 +1,44 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.vinzy.cataddons.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "network.ClientCommonNetworkHandlerMixin",
+    "network.ClientConnectionMixin",
+    "network.ClientPlayNetworkHandlerMixin",
+
+    "misc.MinecraftClientMixin",
+
+    "render.LightmapTextureManagerMixin",
+    "render.EntityRendererMixin",
+    "render.CameraMixin",
+
+    "accessor.EditBoxWidgetAccessor",
+    "accessor.KeyBindingAccessor",
+    "accessor.ScreenAccessor",
+    "accessor.ClientPlayNetworkHandlerAccessor",
+
+    "entity.AbstractClientPlayerEntityMixin",
+    "entity.EntityMixin",
+
+    "glitcha.MouseMixin",
+    "glitcha.TeamMixin",
+    "glitcha.AbstractSignEditScreenMixin",
+    "glitcha.InteractionManagerMixin",
+    "glitcha.TextVisitFactoryMixin",
+
+    "screen.ScreenMixin",
+    "screen.GameMenuScreenMixin",
+    "screen.HandledScreenMixin",
+    "screen.TitleScreenMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}
